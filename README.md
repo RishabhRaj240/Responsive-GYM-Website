@@ -9,3 +9,4 @@ In this project I had made a Responsive GYM Website
 ![Screenshot (724)](https://github.com/RishabhRaj240/Responsive-GYM-Website/assets/155876855/d89cbba8-49d6-4a62-ba34-b0f6f927db8a)
 ![Screenshot (725)](https://github.com/RishabhRaj240/Responsive-GYM-Website/assets/155876855/0ad1d754-1170-4d92-987c-96dbbcbb833d)
 ![Screenshot (726)](https://github.com/RishabhRaj240/Responsive-GYM-Website/assets/155876855/428299c1-d343-43a6-bf92-cd04c02c3e8c)
+![Screenshot (727)](https://github.com/RishabhRaj240/Responsive-GYM-Website/assets/155876855/f2764aaa-fcf6-487e-bade-30c43bba1ee8)
